@@ -1,0 +1,2 @@
+Welcome to the CPU Monitor
+npm run build-installer
